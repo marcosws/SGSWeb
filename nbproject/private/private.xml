@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/saida.jsp</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/entity/Estoque.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/controller/ControllerSaida.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/dao/CompraDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/estoque.jsp</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/index.jsp</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/dao/MarcaDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/service/SaidaService.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/dao/Conexao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/marca.jsp</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/controller/ControllerMarca.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/css/style.css</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/controller/ControllerEstoque.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/controller/ControllerCompra.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/compra.jsp</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/dao/EstoqueDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/service/CommonService.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/model/dao/DepartamentoDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/produto.jsp</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/web/departamento.jsp</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGSWeb/src/java/br/senai/sp/controller/ControllerProduto.java</file>
+        </group>
+    </open-files>
+</project-private>
